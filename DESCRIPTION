@@ -1,4 +1,4 @@
-Package: ipod
+Package: ipodr
 Title: Parse data from `mdls` command
 Version: 0.0.0.9000
 Authors@R: 
