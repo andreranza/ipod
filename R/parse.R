@@ -108,6 +108,8 @@ get_id <- function(chr) {
 
 }
 
+#' @export
+#' @importFrom stringr str_extract
 get_composer <- function(chr) {
 
   out <- str_extract(

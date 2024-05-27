@@ -2,6 +2,7 @@
 
 export(get_album)
 export(get_author)
+export(get_composer)
 export(get_genre)
 export(get_id)
 export(get_meta_data)
