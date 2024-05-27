@@ -1,3 +1,4 @@
+#' @importFrom stringr str_replace_all fixed
 replace_bslash <- function(chr) {
-  stringr::str_replace_all(chr, stringr::fixed("/"), "-")
+  str_replace_all(chr, fixed("/"), "-")
 }
