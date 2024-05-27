@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-Is it possible to extract music files from an old ipodr?
+Is it possible to extract music files from an old iPod?
 
 Yes, it is. However, when copied to your hard drive, files have
 meaningless names, such as “ABCD.mp4”.
