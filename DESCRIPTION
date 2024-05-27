@@ -1,0 +1,14 @@
+Package: ipod
+Title: Parse data from `mdls` command
+Version: 0.0.0.9000
+Authors@R: 
+    person("Andrea", "Ranzato", , "andrea.ranzato01@gmail.com", role = c("aut", "cre"))
+Description: Parse data from `mdls` command.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    dplyr,
+    stringr,
+    tibble
